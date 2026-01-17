@@ -3,7 +3,7 @@
   "packages": [
     {
       "name": "sword_result",
-      "rootUri": "../../sword_result",
+      "rootUri": "file:///Users/mateusramos/.pub-cache/hosted/pub.dev/sword_result-0.1.0",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
