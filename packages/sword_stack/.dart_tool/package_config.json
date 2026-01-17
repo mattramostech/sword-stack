@@ -1,0 +1,22 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "sword_result",
+      "rootUri": "../../sword_result",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "sword_stack",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    }
+  ],
+  "generator": "pub",
+  "generatorVersion": "3.10.4",
+  "flutterRoot": "file:///Users/mateusramos/fvm/versions/3.38.5",
+  "flutterVersion": "3.38.5",
+  "pubCache": "file:///Users/mateusramos/.pub-cache"
+}

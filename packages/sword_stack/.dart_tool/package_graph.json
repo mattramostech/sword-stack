@@ -1,0 +1,21 @@
+{
+  "roots": [
+    "sword_stack"
+  ],
+  "packages": [
+    {
+      "name": "sword_stack",
+      "version": "0.1.0",
+      "dependencies": [
+        "sword_result"
+      ],
+      "devDependencies": []
+    },
+    {
+      "name": "sword_result",
+      "version": "0.1.0",
+      "dependencies": []
+    }
+  ],
+  "configVersion": 1
+}

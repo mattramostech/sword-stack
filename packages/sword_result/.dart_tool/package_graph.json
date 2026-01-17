@@ -1,0 +1,14 @@
+{
+  "roots": [
+    "sword_result"
+  ],
+  "packages": [
+    {
+      "name": "sword_result",
+      "version": "0.1.0",
+      "dependencies": [],
+      "devDependencies": []
+    }
+  ],
+  "configVersion": 1
+}

@@ -1,0 +1,11 @@
+name: sword_stack
+description: SwordStack umbrella package that re-exports bundled libraries.
+version: 0.1.0
+repository: https://github.com/mattramostech/sword-stack
+issue_tracker: https://github.com/mattramostech/sword-stack/issues
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  sword_result: ^0.1.0
